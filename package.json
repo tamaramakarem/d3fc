@@ -51,7 +51,7 @@
     "d3fc-sample": "^3.0.2",
     "d3fc-series": "^2.0.1",
     "d3fc-shape": "^4.0.1",
-    "d3fc-technical-indicator": "^6.1.0"
+    "d3fc-technical-indicator": "^6.1.1"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
